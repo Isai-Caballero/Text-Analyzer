@@ -1,0 +1,11 @@
+C:\Users\isaic\OneDrive\Documents\FALL-2022\MARK CS-II\Text Analyzer GUI\Text Analyzer GUI\bin\Debug\Text Analyzer GUI.exe.config
+C:\Users\isaic\OneDrive\Documents\FALL-2022\MARK CS-II\Text Analyzer GUI\Text Analyzer GUI\bin\Debug\Text Analyzer GUI.exe
+C:\Users\isaic\OneDrive\Documents\FALL-2022\MARK CS-II\Text Analyzer GUI\Text Analyzer GUI\bin\Debug\Text Analyzer GUI.pdb
+C:\Users\isaic\OneDrive\Documents\FALL-2022\MARK CS-II\Text Analyzer GUI\Text Analyzer GUI\obj\Debug\Text Analyzer GUI.csproj.AssemblyReference.cache
+C:\Users\isaic\OneDrive\Documents\FALL-2022\MARK CS-II\Text Analyzer GUI\Text Analyzer GUI\obj\Debug\Text Analyzer GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaic\OneDrive\Documents\FALL-2022\MARK CS-II\Text Analyzer GUI\Text Analyzer GUI\obj\Debug\Text_Analyzer_GUI.Form1.resources
+C:\Users\isaic\OneDrive\Documents\FALL-2022\MARK CS-II\Text Analyzer GUI\Text Analyzer GUI\obj\Debug\Text_Analyzer_GUI.Properties.Resources.resources
+C:\Users\isaic\OneDrive\Documents\FALL-2022\MARK CS-II\Text Analyzer GUI\Text Analyzer GUI\obj\Debug\Text Analyzer GUI.csproj.GenerateResource.cache
+C:\Users\isaic\OneDrive\Documents\FALL-2022\MARK CS-II\Text Analyzer GUI\Text Analyzer GUI\obj\Debug\Text Analyzer GUI.csproj.CoreCompileInputs.cache
+C:\Users\isaic\OneDrive\Documents\FALL-2022\MARK CS-II\Text Analyzer GUI\Text Analyzer GUI\obj\Debug\Text Analyzer GUI.exe
+C:\Users\isaic\OneDrive\Documents\FALL-2022\MARK CS-II\Text Analyzer GUI\Text Analyzer GUI\obj\Debug\Text Analyzer GUI.pdb
